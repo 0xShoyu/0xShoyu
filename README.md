@@ -26,7 +26,7 @@ I build tools that turn data into insights, automate workflows, and power decent
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shuyong-yang/)
-[![Email](https://img.shields.io/badge/Email-degenshushu@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shuyongyang5@gmail.com)
+[![Email](https://img.shields.io/badge/Email-shuyongyang5@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shuyongyang5@gmail.com)
 
 ---
 
