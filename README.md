@@ -2,7 +2,6 @@
 
 🚀 **Web3 Product Engineer | Automating Operations & Building Defi Tools**
 
-🛠 **What I do:**
 - **Automate:** Building headless browser bots to bypass API limits (Puppeteer/Node.js).
 - **Build:** Creating full-stack dApps & dashboards (Next.js/React).
 - **Bridge:** Translating "Client Needs" into "Shipable Code".
