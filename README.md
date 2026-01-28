@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Shoyu
+# 👋 Hi, I'm 0xShoyu
 
 🚀 **Full-stack Developer | Data Engineer | Web3 Builder**  
 I build tools that turn data into insights, automate workflows, and power decentralized apps.
